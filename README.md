@@ -1,5 +1,13 @@
 # Customer Intelligence
 
+<p align="center">
+  <img alt="Python" src="https://img.shields.io/badge/Python-RFM-3776AB?logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-Analytics-4479A1">
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-KMeans-F7931E?logo=scikitlearn&logoColor=white">
+  <a href="https://github.com/dudxzz-25/customer-intelligence/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/dudxzz-25/customer-intelligence/actions/workflows/ci.yml/badge.svg"></a>
+</p>
+
+
 [![CI](https://github.com/dudxzz-25/customer-intelligence/actions/workflows/ci.yml/badge.svg)](https://github.com/dudxzz-25/customer-intelligence/actions/workflows/ci.yml)
 
 Projeto de **segmentação de clientes** que combina SQL, análise RFM e Machine Learning com K-Means. A solução transforma transações em atributos comportamentais e organiza os clientes em grupos úteis para CRM e priorização comercial.
